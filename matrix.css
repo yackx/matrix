@@ -1,0 +1,20 @@
+ @font-face {
+ 	font-family: Matrix;
+ 	src: url('matrix.otf');
+ } 
+
+* {
+	padding:0;
+	margin:0;
+}
+
+body {
+	font-family: Matrix, sans-serif;
+	font-size: 14px;
+	background-color: gray;
+}
+
+#matrix {
+	background-color: black;
+	position: fixed;
+}
