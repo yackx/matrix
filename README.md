@@ -7,7 +7,7 @@ Small demo using HTML5 canvas and javascript.
 
 ![Image of the scroll](matrix.png)
 
-[See it online](https://play.sugoi.be/matrix)
+[See it online](https://play.sugoi.be/matrix/)
 
 ### License
 
